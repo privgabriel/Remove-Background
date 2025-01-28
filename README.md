@@ -19,7 +19,7 @@ pip install rembg pillow onnxruntime
 
 ### 2️⃣ Execute o script
 ```sh
-python 1.py
+python main.py
 ```
 
 ### 3️⃣ Verifique a saída
